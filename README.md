@@ -1,17 +1,17 @@
 # João Fernando Ferrari Nogueira
 
-:man_technologist:Estudante de Análise e Desenvolvimento de Sistemas.
+:man_technologist:Student of Systems Analysis and Development.
 
-:computer:Buscando trabalho/estágio remoto.
+:computer:Looking for work/internship.
 
-:recycle:Em transição de carreira.
+:recycle:In career transition.
 
 ---
 
-Formação anterior:
+Former graduations:
 
-* :leaves:Licenciatura plena em Ciências Biológicas
+* :leaves:Full degree in Biological Sciences
 
-* :school:Especialização em Docência no Ensino Superior e História, cultura e literatura afro-brasileira e indígena
+* :school:Specialization in Teaching on Higher Education
 
-* :mortar_board:Mestrado em Educação Ambiental
+* :mortar_board:Master's degree in Environmental Education
