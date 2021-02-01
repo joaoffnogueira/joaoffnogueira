@@ -12,6 +12,6 @@ Former graduations:
 
 * :leaves:Full degree in Biological Sciences
 
-* :school:Specialization in Teaching on Higher Education
+* :school:Specialization in Teaching at Higher Education
 
 * :mortar_board:Master's degree in Environmental Education
