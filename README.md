@@ -1,6 +1,6 @@
 # João Fernando Ferrari Nogueira
 
-:man_technologist:Student of Systems Analysis and Development.
+:man_technologist:Systems Analysis and Development graduate.
 
 :computer:Looking for work/internship.
 
@@ -24,4 +24,4 @@ Former graduations:
 
 * :school:Specialization in Teaching at Higher Education
 
-* :mortar_board:Master's degree in Environmental Education
+* :mortar_board:Master degree in Environmental Education
