@@ -25,3 +25,12 @@ Former graduations:
 * :school:Specialization in Teaching at Higher Education
 
 * :mortar_board:Master degree in Environmental Education
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoffnogueira&hide=html&layout=compact&theme=shades-of-purple" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaoffnogueira&theme=shades-of-purple&show_icons=true"/></td>
+    </tr>   
+</table>
+</center>  
