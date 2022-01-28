@@ -34,6 +34,6 @@ Former graduations:
 
 <div style="display: inline_block"><br>
     <a href="https://github.com/joaoffnogueira">
-    <img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoffnogueira&hide=html&layout=compact&theme=midnight-purple" />
+    <img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoffnogueira&hide=html,scss&layout=compact&theme=midnight-purple" />
     <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaoffnogueira&theme=midnight-purple&show_icons=true"/>
 </div> 
