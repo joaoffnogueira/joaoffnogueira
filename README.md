@@ -2,8 +2,6 @@
 
 :man_technologist:Systems Analysis and Development graduate.
 
-:computer:Developer at Codeminer42
-
 :recycle:In career transition.
 
 Hi there! I am João (something like John in English), a former biology teacher making a career transition to technology as a developer.
