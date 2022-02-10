@@ -4,7 +4,7 @@
 
 :recycle:In career transition.
 
-Hi there! I am João (something like John in English), a former biology teacher making a career transition to technology as a developer.
+Hi there! I am João (something like John in English), a former biology teacher who made a career transition to technology as a developer.
 
 My current study and work are focused on Ruby, but I have some experience with Java, Kotlin and Flutter for mobile development.
 
