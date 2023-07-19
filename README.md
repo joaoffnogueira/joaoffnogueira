@@ -1,6 +1,37 @@
 # 💫About Me :
 
-Hi there! My name is João (something like John in English), I'm a former biology teacher who is now a Flutter developer with 5 Android apps published on Google Play (and a few more on the way). My current study and work is focused on Android development, but with Flutter's capabilities, I'm expanding into iOS and Windows development.
+Software developer with experience in Flutter apps (Android, Windows, Web). Also, a biology teacher, environmental educator, and researcher, collaborating with agile remote teams to develop software focused on safety and compliance to national industry in Brazil, and to multinationals as well.
+
+Ability in:
+
+✔️ Platform-specific and custom widgets.
+
+✔️ State management (Provider, MobX, Bloc…).
+
+✔️ Clean code and Clean Architecture.
+
+✔️ Unit testing with Flutter Test, Mockito, TestWidgets.
+
+✔️ Writing high-performance, reusable code for UI components.
+
+✔️ Firebase integration and official stores deployment.
+
+✔️ Strong programming, refactoring, and debugging skills.
+
+Other Skills:
+
+✔️ Experience working remotely in teams that use agile practices (Scrum, Kanban…).
+
+✔️ Independent, putting academic research skills at service on development/issue solving.
+
+✔️ Love to rewrite and remove code.
+
+✔️ Curious about almost everything, studying from biology, to education, philosophy (relations between education, environment, and ethics), arriving in software engineering 😂.
+
+Hobbies: 
+- PS5 games.
+- Music (specially Florence + The Machine).
+- Travel (Peru is a favorite).
 
 ---
 
