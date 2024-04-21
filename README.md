@@ -1,47 +1,25 @@
 # 💫About Me :
 
-Software developer with experience in Flutter apps (Android, Windows, Web). Also, a biology teacher, environmental educator, and researcher, collaborating with agile remote teams to develop software focused on safety and compliance to national industry in Brazil, and to multinationals as well.
+As a software developer, I have experience in creating Flutter applications for various platforms, including Android, iOS, Desktop, and Web. My practical and adaptable approach allows me to effectively collaborate with agile remote teams, currently focusing on the development of software that complies with the security standards and regulations of the Brazilian industry.
 
-Ability in:
+In addition to my experience in technology, I also have a background as a biologist, environmental educator, and researcher. These academic experiences allow me to bring a unique perspective and a differentiated critical sense to software development.
 
-✔️ Platform-specific and custom widgets.
+I possess agility and solid programming, refactoring, and debugging skills, as well as a strong problem-solving and risk management capability. My passion for rewriting and removing code reflects my constant pursuit of efficiency and practicality. I strive to stay updated and constantly research and study, often bridging biology and education to software engineering.
 
-✔️ State management (Provider, MobX, Bloc…).
-
-✔️ Clean code and Clean Architecture.
-
-✔️ Unit testing with Flutter Test, Mockito, TestWidgets.
-
-✔️ Writing high-performance, reusable code for UI components.
-
-✔️ Firebase integration and official stores deployment.
-
-✔️ Strong programming, refactoring, and debugging skills.
-
-Other Skills:
-
-✔️ Experience working remotely in teams that use agile practices (Scrum, Kanban…).
-
-✔️ Independent, putting academic research skills at service on development/issue solving.
-
-✔️ Love to rewrite and remove code.
-
-✔️ Curious about almost everything, studying from biology, to education, philosophy (relations between education, environment, and ethics), arriving in software engineering 😂.
-
-Hobbies: 
-- PS5 games.
-- Music (specially Florence + The Machine).
-- Travel (Peru is a favorite).
+In my free time, I enjoy playing on the PS5, listening to music (especially Florence + The Machine), and traveling, with Peru being one of my favorite destinations. I am eager to continue my professional development, sometimes associated with academic research, and contribute with my experience.
 
 ---
 
 Education:
+* :man_technologist:Bachelor of Technology - BTech in Software Engineering (2024-2025)
 
-* :man_technologist:Systems Analysis and Development (2020-2021)
+* :man_technologist:Postgraduate Degree in Computer Engineering (2023)
 
-* :computer:Software Engineering (2019)
+* :man_technologist:Technician in Systems Analysis and Development (2020-2021)
 
-* :school:Specialization in Teaching at Higher Education (2018)
+* :computer:Bachelor of Software Engineering (2019-incomplete)
+
+* :school:Postgraduate Degree in Teaching at Higher Education (2018)
 
 * :mortar_board:Master degree in Environmental Education (2016-2017)
 
