@@ -6,7 +6,7 @@
 
 •  Clean architecture & automated testing
 •  CI/CD pipelines & scalable API integrations
-•  Firebase, Azure DevOps, Riverpod, MobX, Patrol & Crashlytics
+•  Firebase, Azure DevOps, Bloc, MobX, Patrol & Crashlytics
 •  Publishing apps to stores & integrating native services
 
 🚀 I’ve led technical projects in SaaS environments, including document management systems and industrial safety platforms used by thousands of users across Brazil and abroad.
