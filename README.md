@@ -1,12 +1,21 @@
 # 💫About Me :
 
-As a software developer, I have experience in creating Flutter applications for various platforms, including Android, iOS, Desktop, and Web. My practical and adaptable approach allows me to effectively collaborate with agile remote teams, currently focusing on the development of software that complies with the security standards and regulations of the Brazilian industry.
+👋 Hi, I’m João Nogueira — Flutter developer passionate about building clean, scalable, and cross-platform applications.
 
-In addition to my experience in technology, I also have a background as a biologist, environmental educator, and researcher. These academic experiences allow me to bring a unique perspective and a differentiated critical sense to software development.
+🔧 I specialize in mobile, web, and desktop development using Flutter, with strong experience in:
 
-I possess agility and solid programming, refactoring, and debugging skills, as well as a strong problem-solving and risk management capability. My passion for rewriting and removing code reflects my constant pursuit of efficiency and practicality. I strive to stay updated and constantly research and study, often bridging biology and education to software engineering.
+•  Clean architecture & automated testing
+•  CI/CD pipelines & scalable API integrations
+•  Firebase, Azure DevOps, Riverpod, MobX, Patrol & Crashlytics
+•  Publishing apps to stores & integrating native services
 
-In my free time, I enjoy playing on the PS5, listening to music (especially Florence + The Machine), and traveling, with Peru being one of my favorite destinations. I am eager to continue my professional development, sometimes associated with academic research, and contribute with my experience.
+🚀 I’ve led technical projects in SaaS environments, including document management systems and industrial safety platforms used by thousands of users across Brazil and abroad.
+
+🌱 My background in biology and environmental education shaped how I approach problems: with curiosity, empathy, and precision. I bring that mindset into every project I work on.
+
+💬 I love collaborating with agile teams, contributing to product decisions, and sharing what I learn. You’ll find me writing about Flutter, architecture, and dev best practices on my technical blog.
+
+Let’s build things that matter.
 
 ---
 
